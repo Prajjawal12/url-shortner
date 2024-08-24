@@ -24,6 +24,4 @@ Welcome to the **URL Shortener** project! 🚀 This full-stack application lets 
 
 5. **Click Tracking**: Each time a short URL is accessed, a click event is recorded, tracking the user's location, device, and time of access.
 
-```
 
-```
