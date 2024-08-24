@@ -13,7 +13,7 @@ const AppLayout = () => {
         <div className="flex items-center justify-center gap-2">
           Link To Source Code{' '}
           <a
-            href="https://github.com/your-repo-link"
+            href="https://github.com/Prajjawal12/url-shortner"
             target="_blank"
             rel="noopener noreferrer"
           >
