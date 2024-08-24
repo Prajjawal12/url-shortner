@@ -77,12 +77,12 @@ const LinkPage = () => {
             {url?.title}
           </span>
           <a
-            href={`https://trimrr.in/${link}`}
+            href={`https://url-shortner-iota-eight.vercel.app/${link}`}
             target="_blank"
             className="text-3xl sm:text-4xl text-blue-400 font-bold hover:underline cursor-pointer"
             rel="noopener noreferrer"
           >
-            https://trimrr.in/{link}
+            https://url-shortner-iota-eight.vercel.app/{link}
           </a>
           <a
             href={url?.original_url}
