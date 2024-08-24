@@ -16,7 +16,7 @@ Welcome to the **URL Shortener** project! 🚀 This full-stack application lets 
 
 1. **Generate Random Short URLs**: By default, the app generates a unique, random string to append to your domain, creating a shortened URL.
 
-2. **Custom URLs**: Users can also create custom short URLs if the desired custom link is available and not already taken by another user.
+2. **Custom URLs**: Users can also create custom short URLs.
 
 3. **Database Storage**: Both the original and short URLs are stored in the Supabase database.
 
